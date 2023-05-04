@@ -28,5 +28,6 @@
 
 </p>
 
+### 👀 ¿Quieres colaborar? Contáctanos :)
 <a href="https://twitter.com/kevindaviladev"><img src="https://img.shields.io/badge/-kevindaviladev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://twitter.com/jimydolores"><img src="https://img.shields.io/badge/-jimydolores-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
