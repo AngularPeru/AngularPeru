@@ -1,7 +1,10 @@
 # Hola! Somos Angular Perú <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
-![Logo de Angular Community Perú](https://i.ibb.co/XxhcgCj/Logo-Angular-Peru.png)
+<p align="center">
+  <a href="https://www.facebook.com/groups/angularcommunityperu">
+    <img width="400" src="https://i.ibb.co/jhcvbqz/Group-4.png">
+  </a>
+</p>
 
 ### 🤵 ¿Qué somos?
 - 🏦 Una comunidad de programadores de Angular de todo el mundo, pero con foco en Perú, para realizar eventos, sorteos y más :)
